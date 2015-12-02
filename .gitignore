@@ -1,0 +1,7 @@
+.idea
+__pycache__
+*.pyc
+ghostdriver.log
+phantomjs
+phantomjs.exe
+venv
